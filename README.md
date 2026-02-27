@@ -145,7 +145,7 @@ Now you should run `DragonBurn-kernel.exe` to map the driver. If u see `[+] succ
 
 <img src="imgs/error_1.png" width="400" height="90">
 
-> Error: `Windows Defender or any other anticheats may flag cheat as virus`
+> Error: `Windows Defender or any other antiviruses may flag cheat as virus`
 >
 > Solution: Turn off real-time protection
 
